@@ -15,12 +15,6 @@ Windows, .NET 8 SDK and Visual Studio 2022 (17.8 or later) with the **.NET deskt
 
 Extract the ZIP, open `MemoryGame.sln` and press **F5**.
 
-Or run from the project folder:
-
-```sh
-dotnet run --project MemoryGame/MemoryGame.csproj
-```
-
 ## Azərbaycanca
 
 C# və Windows Forms ilə hazırlanmış yaddaş oyunu. 8 kartın arxasında 4 rəng cütü gizlənir. Eyni rəngli iki kartı açanda 1 xal qazanılır. Səhv seçimdə xal dəyişmir və kartlar 0,85 saniyədən sonra bağlanır. Bütün cütlər tapıldıqda oyun bitir. Maksimum xal: **4**.
